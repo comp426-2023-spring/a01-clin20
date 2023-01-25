@@ -1,0 +1,14 @@
+{
+  "name": "chloes-first-webserver",
+  "version": "1.0.0",
+  "description": "my first webserver :o",
+  "main": "server.js",
+  "scripts": {
+    "test": "node server.js --port=5555"
+  },
+  "author": "clin20",
+  "license": "GPL-3.0-or-later",
+  "dependencies": {
+    "minimist": "^1.2.7"
+  }
+}
